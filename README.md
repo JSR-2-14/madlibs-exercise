@@ -2,7 +2,7 @@
 
 Have you ever heard someone describe a startup as being "Like Uber for puppies" or "Like Amazon for kittens"? In this exercise, you'll be building a website that auto-generates madlib sayings like "A startup that is `X` but for `Y`". Here's what we've given you to get started:
 
-- A JavaScript file ("madlib-console.js") that contains two arrays (`startupX` and `startupY`) that are pre-populated with startup names (feel free to add some of your own as well!). The JavaScript file also contains two variables (`random1` and `random2`) that will randomly select startup names from those arrays. Finally, at the bottom of the JavaScript file, there's a line of code that will log "A startup that is `X` but for `Y`" out to the console.
+- A JavaScript file ("script.js") that contains two arrays (`startupX` and `startupY`) that are pre-populated with startup names (feel free to add some of your own as well!). The JavaScript file also contains two variables (`random1` and `random2`) that will randomly select startup names from those arrays. Finally, at the bottom of the JavaScript file, there's a line of code that will log "A startup that is `X` but for `Y`" out to the console.
 
 - An HTML file that contains a few elements you will want to use:
 
