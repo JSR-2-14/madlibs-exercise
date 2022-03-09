@@ -9,6 +9,3 @@ console.log('A startup that is ' + startupX[random1] + ', but for ' + startupY[r
 const insertMadLib = function(){
     document.getElementById("xForY").innerHTML = 'A startup that is ' + startupX[random1] + ', but for ' + startupY[random2]
 }
-
-
-asds
