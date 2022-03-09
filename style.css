@@ -93,3 +93,41 @@ body {
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+
+section {
+  height: 100vh;
+  position: relative;
+}
+#box {
+  position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    margin: auto;
+    min-width: 640px;
+    max-width: 640px;
+    text-align: center;
+}
+h1 {
+  min-height: 33px;
+}
+button {
+  color: #fff;
+  display: inline-block;
+  background-color: #f7941d;
+  border-bottom: 5px solid #b53315;
+  border-left: 1px solid #b53315;
+  border-right: 1px solid #b53315;
+  border-top: 1px solid #b53315;
+  border-radius: 4px;
+  font-size: 1.2em;
+  margin: auto 4px;
+  padding: 8px;
+  position: relative;
+}
+button:hover {
+  background-color: #e3701b;
+  border-bottom: 4px solid #b53315;
+  top: 1px;
+}
