@@ -93,3 +93,12 @@ body {
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+
+.createButton {
+  background-color: green;
+  color: white;
+}
+.clearButton {
+  background-color: red;
+  color: white;
+}
