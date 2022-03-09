@@ -47,10 +47,27 @@ Developer @GA in NYC
 
 body {
      color: #000;
-     font-size: 12px;
+     font-size: 14px;
      line-height: 1.4;
      font-family: Helvetica, Arial, sans-serif;
+     background-color: aquamarine;
 }
+
+#create {
+    background-color: #f700ff;
+    color: #fff;
+    border-radius: 50px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 30px;
+}
+/* h1 {
+      background-color: #ff0080;
+      color: #ffffff;
+      border-radius: 50px;
+    } */
+
 
 
 /******************************************
